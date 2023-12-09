@@ -1,0 +1,80 @@
+.warna1 {
+    background-color: #008170;
+}
+
+.warna2 {
+    background-color: #0B666A;
+}
+
+.warna3 {
+    background-color: #DDE6ED;
+}
+
+.warna4 {
+    background-color: #CEDEBD;
+}
+
+.warna5 {
+    background-color: #872341;
+}
+
+.warna6 {
+    background-color: #9BBEC8;
+}
+
+.kuekufont {
+    font-family: 'Arial', sans-serif;
+}
+
+.highlighted-produk {
+    height: 250px;
+}
+
+.logo {
+    background: url(../image/kueku.png);
+    background-position: center;
+}
+
+.produk-kue-lontar {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../image/lontar3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.produk-kue-zebra {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../image/zebra3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.produk-pasta-pandan {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../image/pandan2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration {
+    text-decoration: none;
+    color: gray;
+}
+
+.content-subscribe {
+    background-color: red;
+}
+
+.image-box {
+    height: 250px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.foto-box {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
